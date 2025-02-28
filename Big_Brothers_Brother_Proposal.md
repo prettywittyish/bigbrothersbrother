@@ -49,7 +49,7 @@ A pharmaceutical company donates \$1 million to a senator’s campaign PAC, and 
 
 ---
 
-### **4. VoteGuard AI – Legislative Integrity Monitoring**
+### **4. ShadowBallot AI – Legislative Integrity Monitoring**
 
 **Function:**
 
@@ -62,7 +62,7 @@ A representative who previously opposed cryptocurrency regulations suddenly supp
 
 ---
 
-### **5. SwampDrain AI – Lobbyist & Influence Tracking**
+### **5. LobbyLeaks AI – Lobbyist & Influence Tracking**
 
 **Function:**
 
