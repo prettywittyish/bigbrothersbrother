@@ -7,8 +7,8 @@
 - 📉 **StockShark AI** – Tracks insider trading & suspicious stock movements.  
 - 💰 **KickbackTracker** – Detects bribes & shady government contracts.  
 - 🕵️ **DarkMoney Detector** – Follows hidden campaign finance deals.  
-- 📜 **VoteGuard AI** – Flags votes that financially benefit lawmakers.  
-- 🐊 **SwampDrain AI** – Tracks lobbyist influence & policy changes.  
+- 📜 **ShadowBallot** – Flags votes that financially benefit lawmakers.  
+- 🐊 **LobbyLeaks AI** – Tracks lobbyist influence & policy changes.  
 - 🔗 **TruthLedger** – Uses blockchain for full financial transparency.  
 - 👥 **Nepotism Net** – Uncovers conflicts of interest & family enrichment.  
 
