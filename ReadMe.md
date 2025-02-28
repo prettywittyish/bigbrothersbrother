@@ -31,10 +31,14 @@
 📢 **Transparency = Accountability.**  
 
 ## Get Involved
-- **Developers:** Help refine AI models & automation.  
-- **Data Scientists:** Optimize fraud detection algorithms.  
-- **Investigative Journalists:** Use the data to uncover corruption.  
-- **Citizens:** Spread awareness & demand transparency.  
+- **Developers: ** Build and refine AI models, improve automation, and integrate machine learning pipelines for corruption detection.
+- **AI Engineers: ** Develop real-time fraud detection algorithms and predictive analytics for insider trading, dark money flows, and conflicts of interest.
+- **Blockchain Developers: ** Implement decentralized transparency solutions via TruthLedger, ensuring immutable financial records.
+- **Cybersecurity Experts: ** Secure APIs, prevent data manipulation, and protect system integrity from tampering or adversarial attacks.
+- **Data Scientists: ** Optimize anomaly detection models, conduct forensic financial analysis, and enhance entity resolution techniques.
+- **Investigative Journalists: ** Use the AI-driven reports to uncover corruption, publish findings, and hold politicians accountable.
+- **Ethical Hackers: ** Test system vulnerabilities, detect obfuscation tactics, and expose hidden financial relationships.
+- **Citizens: ** Advocate for transparency, share findings, and demand accountability from public officials.
 
 ## Read the Full Proposal
 📖 **[Big Brother’s Brother (B³) AI Proposal](./Big_Brothers_Brother_Proposal.md)**  
