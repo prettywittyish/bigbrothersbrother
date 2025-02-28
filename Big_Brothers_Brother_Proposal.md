@@ -217,11 +217,20 @@ Big Brother’s Brother (B³) aggregates data from multiple sources, some of whi
 
 This isn’t just an idea—it’s a **technical challenge** that can be solved with **data science, machine learning, and blockchain transparency**.
 
-🔹 **Data Scientists & AI Engineers** – Can you refine fraud detection models? Build real-time anomaly detection for stock trades? Let’s make it happen.
+🔹 **Data Scientists & AI Engineers** – Develop AI-driven fraud detection, anomaly tracking, and predictive analytics. Responsibilities include:
+   - Designing machine learning models to **detect stock trading anomalies, financial misconduct, and policy-linked financial gains**.
+   - Building NLP systems to **analyze legislative documents, financial disclosures, and social sentiment**.
+   - Implementing AI-powered **risk scoring models** to flag corruption patterns in real time.
 
-🔹 **Blockchain Developers** – Help build **TruthLedger**, an immutable public record that ensures financial transparency **forever**.
+🔹 **Blockchain Developers** – Help build **TruthLedger**, an immutable public record that ensures financial transparency **forever**. Key areas of focus:
+   - Developing **smart contracts** to record and validate government transactions.
+   - Implementing **decentralized identity verification** to prevent financial obfuscation.
+   - Ensuring blockchain security and immutability to **prevent records from being altered or erased**.
 
-🔹 **Cybersecurity Experts** – Ensure the integrity and security of an AI-powered system that **governments won’t want to exist**.
+🔹 **Cybersecurity Experts** – Protect the system from attacks, data manipulation, and disinformation campaigns. If this tool exposes corruption, it **will** become a target. We need experts to:
+   - Secure APIs and data pipelines from tampering.
+   - Prevent unauthorized access and manipulation of AI models.
+   - Ensure transparency while safeguarding sensitive sources and whistleblowers.
 
 🔹 **Ethical Hackers & Investigative Journalists** – Use this tool to uncover corruption **before it’s too late**.
 
